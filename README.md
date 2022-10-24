@@ -2,11 +2,13 @@
 <h3 align="center">A Software Engineer with an increasing focus on front-end development and creating solutions that are functional and user-centered.</h3>
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
 
-- 🌱 I’m currently learning **React Native**
+👩‍💻 I love learning new things and tend to pick up new concepts quickly. Getting challenged is crucial to me as that allows me to grow and strengthens my skills. 
 
-- 📫 How to reach me **buzaitemilita@gmail.com**
+🌱 I’m currently learning **React Native**
 
-- ⚡ Fun fact **You can't hum if you hold your nose!**
+📫 How to reach me **buzaitemilita@gmail.com**
+
+⚡ Fun fact **You can't hum if you hold your nose!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
