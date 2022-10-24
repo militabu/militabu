@@ -1,4 +1,4 @@
-<h1 align="center">Hi There 👋, I'm Milita</h1>
+<h1 align="center">Hi There 👋,  I'm Milita</h1>
 <h3 align="center">A Software Engineer with an increasing focus on front-end development and creating solutions that are functional and user-centered.</h3>
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
 
