@@ -1,6 +1,6 @@
 <h1 align="center">Hi There, I'm Milita 👋</h1>
 <h3 align="center">A Software Engineer with an increasing focus on front-end development and creating solutions that are functional and user-centered.</h3>
-<img align="right" alt="Coding" width="300" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/564x/38/c9/6c/38c96c9032f1ca6c85899cb49beb7a1c.jpg"/>
 
 👩‍💻 I love learning new things and tend to pick up new concepts quickly. Getting challenged is crucial to me as that allows me to grow and strengthens my skills. 
 
