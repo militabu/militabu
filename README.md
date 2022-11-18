@@ -4,7 +4,7 @@
 
 👩‍💻 I love learning new things and tend to pick up new concepts quickly. Getting challenged is crucial to me as that allows me to grow and strengthens my skills. 
 
-🌱 I’m currently learning **React Native**
+🌱 I’m currently learning **Next.js**
 
 📫 How to reach me **buzaitemilita@gmail.com**
 
